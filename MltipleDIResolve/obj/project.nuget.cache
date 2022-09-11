@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "151RKnh4+w4EXHD+XEaP0oCKnyh7ppRVV/fTI/7BsGufqSyZd8lc+BR0L/4z7JV2ZQrPXpZOyBH/Tz1WuLKWFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sai prakash dasoju\\source\\repos\\MltipleDIResolve\\MltipleDIResolve\\MltipleDIResolve.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sai prakash dasoju\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
